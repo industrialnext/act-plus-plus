@@ -1,0 +1,12 @@
+torchvision
+torch
+pyquaternion
+pyyaml
+pexpect
+mujoco==2.3.7
+dm_control==1.0.14
+opencv-contrib-python==4.9.0.80+gstreamer
+matplotlib
+einops
+packaging
+h5py
